@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Licensing Agreement | Beats License</title>
+    <style>
+        body {
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #e0e0e0;
+            background-color: #121212;
+            margin: 0;
+            padding: 40px 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: #1e1e1e;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+            border: 1px solid #333;
+        }
+        h1 {
+            color: #ffffff;
+            border-bottom: 2px solid #ff3e3e; /* Accent color */
+            padding-bottom: 10px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+        h2 {
+            color: #ff3e3e;
+            font-size: 1.2rem;
+            margin-top: 30px;
+        }
+        p, li {
+            font-size: 1rem;
+            color: #b0b0b0;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        .highlight {
+            color: #ffffff;
+            font-weight: bold;
+        }
+        .footer {
+            margin-top: 50px;
+            font-size: 0.8rem;
+            text-align: center;
+            color: #666;
+            border-top: 1px solid #333;
+            padding-top: 20px;
+        }
+        .btn-back {
+            display: inline-block;
+            margin-bottom: 20px;
+            color: #ff3e3e;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        @media (max-width: 600px) {
+            .container { padding: 20px; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <a href="index.html" class="btn-back">← Back to Store</a>
+    
+    <h1>Body Bag License Agreement</h1>
+    <p>This Non-Exclusive Licensing Agreement is a legally binding contract between the <strong>Producer</strong> and the <strong>Licensee</strong> (the Artist/Purchaser). By purchasing a "Body Bag License," you agree to the following terms:</p>
+
+    <hr style="border: 0; border-top: 1px solid #333; margin: 30px 0;">
+
+    <h2>1. USAGE & DISTRIBUTION</h2>
+    <ul>
+        <li><span class="highlight">Commercial Use:</span> You are granted the right to use the Beat for one (1) profitable or commercial recording (Single, EP, or Album).</li>
+        <li><span class="highlight">Streaming Limit:</span> This license permits up to <span class="highlight">50,000 streams</span> across all digital platforms (Spotify, Apple Music, YouTube, etc.).</li>
+        <li><span class="highlight">Physical Sales:</span> You may distribute up to <span class="highlight">2,000 copies</span> (Digital or Physical).</li>
+    </ul>
+
+    <h2>2. CREDIT REQUIREMENTS</h2>
+    <p>The Licensee must provide proper credit to the Producer for the use of the instrumental. Credit should appear on all physical and digital media as follows:</p>
+    <p style="background: #2a2a2a; padding: 10px; border-radius: 4px; text-align: center;">
+        <span class="highlight">"Produced by [Your Brand/Name]"</span>
+    </p>
+
+    <h2>3. OWNERSHIP & COPYRIGHT</h2>
+    <ul>
+        <li>The Producer maintains <span class="highlight">100% full ownership</span> of the original instrumental composition.</li>
+        <li>The Licensee owns the copyright to the lyrics and vocal performance added to the Beat.</li>
+        <li><span class="highlight">Content ID:</span> You may NOT register the final song with YouTube Content ID or any other automated copyright system.</li>
+    </ul>
+
+    <h2>4. RESTRICTIONS</h2>
+    <p>The Licensee shall not sell, loan, rent, or lease the Beat to any third party. This license is non-transferable. Use of the Beat for synchronized media (TV, Film, Commercials) requires a separate Synchronization License.</p>
+
+    <h2>5. EXPIRATION</h2>
+    <p>If the stream or sales limits are exceeded, this license is considered expired. The Licensee must contact the Producer to upgrade to an Unlimited or Exclusive License to continue distribution.</p>
+
+    <div class="footer">
+        &copy; 2026 Production Studio | South Africa | All Rights Reserved.
+    </div>
+</div>
+
+</body>
+</html>
